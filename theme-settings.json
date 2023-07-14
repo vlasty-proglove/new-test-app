@@ -1,7 +1,8 @@
 {
     "theme": {
       "color": {
-        "documentation-intro-fill": "radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(27,114,131,1) 0%, rgba(5,11,56,1) 100%)"
+        "documentation-intro-fill": "radial-gradient(circle, rgba(255,111,25,1) 0%, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%)",
+        "documentation-intro-accent": "#ff6f19"
       }
     }
   }
